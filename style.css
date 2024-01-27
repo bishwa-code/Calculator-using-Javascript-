@@ -30,7 +30,6 @@ html, body{
     background-color: #f1f5f9;
 
     box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
-    animation: animate infinite linear 6s;
 }
 
 .calculator input{
